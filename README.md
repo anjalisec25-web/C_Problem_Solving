@@ -15,9 +15,6 @@ This repository contains C programs covering a variety of topics, from basic pro
 * Functions
 * Pointers
 * Structures
-* File Handling
-* Searching
-* Sorting
 
 > New problems and solutions will be added regularly as I continue practicing C programming.
 
