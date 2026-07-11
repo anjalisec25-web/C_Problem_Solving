@@ -1,3 +1,11 @@
+/*
+An Armstrong number is a number that is equal to the sum of each of its digits
+raised to the power of the total number of digits.
+
+Example:
+153 = 1³ + 5³ + 3³ = 153
+*/
+
 #include <stdio.h>
 #include <math.h>
 int main(){
