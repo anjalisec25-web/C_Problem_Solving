@@ -15,8 +15,8 @@ int main(){
             s++;
         }
     }
-    printf("No. of Alphabets:%d\n",a);
-    printf("No. of Digits:%d\n",d);
-    printf("No. of Special Characters:%d",s);
+    printf("Number of Alphabets:%d\n",a);
+    printf("Number of Digits:%d\n",d);
+    printf("Number of Special Characters:%d",s);
     return 0;
 }
