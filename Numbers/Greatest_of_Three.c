@@ -8,13 +8,13 @@ int main(){
     printf("Enter number 3:");
     scanf("%d",&n3);
     if(n1>n2 && n1>n3){
-        printf("%d is the greatest number",n1);
+        printf("%d is the greatest number.",n1);
     }
     else if(n2>n3){
-        printf("%d is the greatest number",n2);
+        printf("%d is the greatest number.",n2);
     }
     else{
-        printf("%d is the greatest number",n3);
+        printf("%d is the greatest number.",n3);
     }
     return 0;
 }
