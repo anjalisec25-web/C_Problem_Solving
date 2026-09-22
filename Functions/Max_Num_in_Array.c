@@ -14,7 +14,7 @@ int main(){
     scanf("%d",&n);
     int a[n];
     for(i=0;i<n;i++){
-        printf("Emter Numbers:");
+        printf("Enter Numbers:");
         scanf("%d",&a[i]);
     }
     printf("Maximum Number in array is,%d",maxarr(a,n));
